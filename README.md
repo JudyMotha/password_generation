@@ -1,7 +1,7 @@
 # password_generation
 * The code generates series of prompts -
 * Asks the user to enter password length -validates length on several criteria
-* User inputs entry for uppercase,lowercase ,special characters and numbers in varied combinations 
+* User inputs entry for uppercase,lowercase ,special characters and/or  numbers in varied combinations 
 * Password is finally written to the page .
 
 Deployed url
