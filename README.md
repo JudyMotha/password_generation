@@ -7,4 +7,4 @@
 Deployed url
  https://judymotha.github.io/password_generation/
  
-!{Screenshot](Password_Generator.png)
+!{Screenshot](/Password_Generator.png)
