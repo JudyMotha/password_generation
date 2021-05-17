@@ -6,4 +6,4 @@
 
 Deployed url
  https://judymotha.github.io/password_generation/
-!{Screenshot](https://github.com/JudyMotha/password_generation/blob/main/Password_Generator.png?raw=true)
+!{Screenshot]https://github.com/JudyMotha/password_generation/blob/main/Password_Generator.png?raw=true
