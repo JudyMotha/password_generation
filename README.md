@@ -9,4 +9,4 @@ Deployed url
  
  https://github.com/JudyMotha/password_generation
  
-!{Screenshot](./Password_Generator.png)
+!{Screenshot](Password_Generator.png)
