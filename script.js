@@ -1,4 +1,5 @@
 //Defining password components alphabets ,numbers & special characters
+//Refer wiki ideas
 var alphalower = "abcdefghijklmnopqrstuvwxyz";
 var alphaupper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var digits = "0123456789";
