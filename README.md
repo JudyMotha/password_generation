@@ -7,6 +7,8 @@
 Deployed url
  https://judymotha.github.io/password_generation/
  
+ Refernce wikipedia RND generator
+ 
  SCREENSHOT 
  
 !{Screenshot](https://github.com/JudyMotha/password_generation/blob/main/Password_Generator.png?raw=true)
