@@ -4,7 +4,7 @@
 * User inputs entry for uppercase,lowercase ,special characters and/or  numbers 
 * Final Password is  written to the page .
 
-Deployed url
+Deployed url https://judymotha.github.io/password_generation/
  
  
  Refernce wikipedia RND generator
