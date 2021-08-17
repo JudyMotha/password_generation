@@ -9,4 +9,4 @@ Deployed url https://judymotha.github.io/password_generation/
  
  Refernce wikipedia RND generator
  
- 
+ <img src="./Product.gif">
