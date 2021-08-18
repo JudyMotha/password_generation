@@ -9,4 +9,4 @@ Deployed url https://judymotha.github.io/password_generation/
 Visuals : Screenshot and GIF 
  
  <img src="./Password_Generator.png">
- <img sce="./PG.gif">
+ <img src="./PG.gif">
