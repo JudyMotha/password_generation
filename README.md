@@ -9,7 +9,8 @@
 * HTML ,CSS,Javascript
 
 * Deployed url https://judymotha.github.io/password_generation/
-* Visuals : Screenshot and GIF 
+
+# Visuals : Screenshot and GIF 
  
  <img src="./Password_Generator.png">
  <img src="./PG.gif">
