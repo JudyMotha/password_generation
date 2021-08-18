@@ -3,10 +3,10 @@
 * Asks the user to enter password length -validates length on several criteria
 * User inputs entry for uppercase,lowercase ,special characters and/or  numbers 
 * Final Password is  written to the page .
+* Refernce wikipedia RND generator
 
 Deployed url https://judymotha.github.io/password_generation/
- 
- 
- Refernce wikipedia RND generator
+Visuals : Screenshot and GIF 
  
  <img src="./Password_Generator.png">
+ <img sce="./PG.gif">
