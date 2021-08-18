@@ -5,6 +5,8 @@
 * Final Password is  written to the page .
 * Refernce wikipedia RND generator
 
+# Technologies:HTML ,CSS,Javascript
+
 * Deployed url https://judymotha.github.io/password_generation/
 * Visuals : Screenshot and GIF 
  
