@@ -7,6 +7,7 @@
  Technologies:* HTML ,CSS,Javascript
 
 * Deployed url https://judymotha.github.io/password_generation/
+* GH link https://github.com/JudyMotha/password_generation
 
 # Visuals : Screenshot and GIF 
  
