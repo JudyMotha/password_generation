@@ -12,6 +12,6 @@
 # Visuals : Screenshot and GIF 
  
  <img src="./Password_Generator.png">
- 
+ <img src="./RndPwdGen.png">
  <img src="./PG.gif">
-<img src="./Pdgen.png">
+
