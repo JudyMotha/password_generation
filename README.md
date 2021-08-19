@@ -10,7 +10,6 @@
 * GH link https://github.com/JudyMotha/password_generation
 
 # Visuals : Screenshot and GIF 
- 
- <img src="./Password_Generator.png">
  <img src="./PG2.jpg">
+ <img src="./Password_Generator.png">
  <img src="./PG.gif">
